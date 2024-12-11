@@ -13,4 +13,5 @@ type myVar= string|number
 let data:myVar=100
 let date:myVar="100"
 
+
 */
